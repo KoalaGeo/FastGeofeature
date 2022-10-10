@@ -15,7 +15,7 @@ on:
       - main
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: FastGeofeature
+  IMAGE_NAME: fastgeofeature
 
 jobs:
   # Push image to GitHub Packages.
