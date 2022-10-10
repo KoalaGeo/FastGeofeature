@@ -8,7 +8,6 @@ FastGeofeature is a geospatial api to serve features from a mulititude of [PostG
 
 ---
 
-
 ## Requirements
 
 FastGeofeature requires PostGIS >= 2.4.0.
